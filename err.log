@@ -1,0 +1,8 @@
+Error: oops!
+    at Timeout._onTimeout (C:\Users\sound\OneDrive\Documentos\Curso Javascript\debugging.js:13:28)
+    at listOnTimeout (node:internal/timers:556:17)
+    at processTimers (node:internal/timers:499:7)
+Error: oops!
+    at Timeout._onTimeout (C:\Users\sound\OneDrive\Documentos\Curso Javascript\debugging.js:13:28)
+    at listOnTimeout (node:internal/timers:556:17)
+    at processTimers (node:internal/timers:499:7)
